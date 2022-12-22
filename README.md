@@ -45,7 +45,7 @@ docker-mysql.yaml
 Запустить докер и в корневой части проекта выполнить команду:
 
 ```
-> docker-compose -f docker-compose.yaml up -d
+> docker-compose -f docker-mysql.yaml up -d
 ```
 
 3. Запустите приложение:
